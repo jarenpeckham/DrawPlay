@@ -2,7 +2,7 @@ import java.awt.Graphics;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-
+//authors: Carlos Escalante, Jaren Peckham
 
 public class MyDrawing extends JPanel {
 	private Cat cat;
